@@ -19,13 +19,15 @@ This project implements a linear regression-based house price predictor with a g
 ## Installation
 
 1. Clone or download the repository to your local machine.
-2. Install the required libraries using pip:
-
-```bash
-pip install keras
+2. Install the required libraries using pip.
 
 ## Usage
 1. Launch the application and the GUI will be displayed.
 2. Enter the features of the house, such as square footage, number of rooms, etc., in the input form.
 3. Click the "Predict" button to see the estimated price of the house based on the trained linear regression model.
-T4. he application also provides visualizations of the trained model, such as scatter plots and regression line, for better understanding.
+4. he application also provides visualizations of the trained model, such as scatter plots and regression line, for better understanding.
+
+```bash
+pip install keras
+
+
